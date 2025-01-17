@@ -1,6 +1,14 @@
 # Algorithm Visualizer for Closest Pair of Points and Karatsuba Multiplication
 
-This repository contains the **Design and Analysis of Algorithms (DAA)** project, which implements and visualizes the **Closest Pair of Points** and **Karatsuba Integer Multiplication** algorithms. The system offers an interactive GUI for users to input data, execute algorithms, and visualize their operations.
+This repository contains the **Design and Analysis of Algorithms (DAA)** project made by 3 group members, which implements and visualizes the **Closest Pair of Points** and **Karatsuba Integer Multiplication** algorithms. The system offers an interactive GUI for users to input data, execute algorithms, and visualize their operations.
+
+---
+
+## Group Members
+
+1. Azka Sahar Shaikh  
+2. Muhammad Sudais Katiya  
+3. Sumaiya Waheed
 
 ---
 
