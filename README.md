@@ -44,7 +44,13 @@ The **Algorithm Visualizer** bridges the gap between theoretical concepts and pr
   - Datasets: Text files containing integer pairs for multiplication.
   - Types: Positive, negative, and mixed integers of varying digit lengths.
 
----
+---  
+## DEMO
+https://github.com/user-attachments/assets/cd0ad0a3-ca53-4f11-9704-25196fb6f22d  
+
+https://github.com/user-attachments/assets/c0f78062-1686-4de6-a4cd-6d3edda14b3a    
+
+
 
 ## How to Use
 
